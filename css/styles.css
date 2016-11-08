@@ -1,0 +1,21 @@
+.icons > li {
+    font-size: 2rem;
+    border-radius: 1.25rem;
+    width: 2.5rem;
+    height: 2.5rem;
+    display: inline-block;
+    margin: 1.25rem 5px;
+    text-align: center;
+}
+.icons > li:hover {
+    cursor: pointer;
+}
+.facebook {
+    color: #4c66a4;
+}
+.envelope {
+    color: #FFFFFF;
+}
+a {
+  color: inherit;
+}
